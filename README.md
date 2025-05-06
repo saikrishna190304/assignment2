@@ -1,4 +1,4 @@
-## screeshots of merge conflicts 
+## screenshots of merge conflicts 
 ![git log screenshot](screen1.png)
 ![git log screenshot](screen2.png)
 
